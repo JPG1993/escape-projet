@@ -1,0 +1,97 @@
+ .nav{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -45px;
+    margin-left: 1100px;
+}
+.backgroundimage{
+    background-image: url(tokyo2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.slogan{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.hp{
+    text-align: center;
+}
+.section1{
+    display: flex;
+    flex-direction: row;
+    width: 790px;
+    margin-left: 300px;
+}
+.bloc1{
+    width: 450px;
+    margin-left: 40px;
+}
+.bloc2{
+    margin: 30px;
+}
+.section2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-left: 0;
+    background-color: lightgrey;
+}
+.bloc3{
+    margin-left: 40px;
+}
+.bloc4{
+    margin-right: 145px;
+}
+.section3{
+    display: flex;
+    flex-direction: row;
+    width: 650px;
+    margin-left: 350px;
+}
+.encar{
+    text-align: center;
+}
+.clients{
+    text-align: center;
+}
+.sectionperso1{
+    margin-left: 270px;
+}
+.sectionperso2{
+    margin-left: 270px;
+}
+.photo1{
+    border-radius: 50%;
+}
+.photo2{
+    border-radius: 50%;
+}
+.amazingteam{
+    text-align: center;
+}
+.phototeam{
+    display: flex;
+    flex-direction: row;
+    margin-left: 475px;
+}
+.photomarge2{
+    margin-right: 40px ;
+}
+.photomarge3{
+    margin-left: 20px;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+}
+.contactform{
+    display: flex;
+    flex-direction: row;
+}
+.message{
+    margin-left: 140px;
+    margin-top: 50px;
+}
